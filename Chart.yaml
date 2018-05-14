@@ -1,0 +1,17 @@
+apiVersion: v1
+appVersion: v0.3.0
+description: Consul Stats exporter for Prometheus
+name: consul-exporter
+version: 0.1.0
+home: https://github.com/prometheus/consul_exporter
+sources:
+- https://github.com/prometheus/consul_exporter
+keywords:
+- consul-exporter
+- prometheus
+- exporter
+- metrics
+maintainers:
+- email: linuxrebel@gmail.com
+  name: James Sparenberg
+
